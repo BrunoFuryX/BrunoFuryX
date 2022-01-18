@@ -23,6 +23,7 @@
     </ul>
 </table>
   <span><b>Tenho experiência nas plataformas:</b><br>
+  <img src="https://i.imgur.com/6Im1EnJ.png" align="center" width="60px">
   <img src="https://i.imgur.com/eDEo9iW.png" align="center" width="60px">
   <img src="https://i.imgur.com/lnmGan5.jpg" align="center" width="60px">
   <img src="https://i.imgur.com/D7uDBSj.png" align="center" width="60px">
@@ -50,7 +51,7 @@
   <p>Se precisar de algo é so me chamar, principalmente se for para tomar um café e falar sobre assuntos aleatórios ☕. </p>
  
   <h2>- Redes Sociais</h2>
-  <p><b>No momento estou estudando:</b><br>
+  <p>
     <a href="https://api.whatsapp.com/send?phone=5514996663713&text=Oi%2C%20vi%20seu%20perfil%20no%20github%20e%20gostaria%20de%20conversar%20um%20pouco">
       <img src="https://i.imgur.com/mLoj88q.png" align="center" width="30px">
     </a>
