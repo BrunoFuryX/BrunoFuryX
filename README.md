@@ -7,10 +7,6 @@ Meu nome é , no momento estou trabalhando e focando no front-end para e-commerc
 💬 Tenho experiencia em: Node.js, PostgresSQL, MySQL, C#, PHP, JavaScript, CSS, HTML, Twig, Liquid<br>
 🌱 Tenho estudado atualmente: Angular, Node.js, ReactJs
 
-
-<div align="center">
-  <img src="https://i.imgur.com/uWGBDa5.jpg" align="center" width="150px">
- </div>
 <h2 align="center">Bom dia, tarde ou noite! 😊</h2>
 
 <h2>- Minha trajetória:</h2>
