@@ -46,7 +46,7 @@
 <p><b>Tenho interesse em aprender:</b><br>
  <img src="https://i.imgur.com/MVvFozF.png" align="center" width="30px">
     <p>
-      
+       
       
   <p>Se precisar de algo é so me chamar, principalmente se for para tomar um café e falar sobre assuntos aleatórios ☕. </p>
  
