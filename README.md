@@ -1,6 +1,6 @@
 ### Bom dia!
 
-Meu nome é Bruno Ferreira Lopes, no momento estou trabalhando e focando no front-end para e-commerce
+Meu nome é , no momento estou trabalhando e focando no front-end para e-commerce
 
 🔭 Atualmente trabalho na Agência Auaha, uma empresa de Marília que é focada em marketing e implementação de projetos e-commerce.<br>
 
@@ -8,11 +8,73 @@ Meu nome é Bruno Ferreira Lopes, no momento estou trabalhando e focando no fron
 🌱 Tenho estudado atualmente: Angular, Node.js, ReactJs
 
 
+<div align="center">
+  <img src="https://i.imgur.com/uWGBDa5.jpg" align="center" width="150px">
+ </div>
+<h2 align="center">Bom dia, tarde ou noite! 😊</h2>
+
+<h2>- Minha trajetória:</h2>
+<p>Me chamo <b>Bruno Ferreira Lopes</b>, tenho 19 anos e é um prazer ter você aqui.</p>
+
+<p>Comecei meus estudos oficialmente em 2016, cursando o Ensino médio integrado ao Técnico de informática na ETEC, porém meu interesse na área veio desde cedo.</p>
 
 
+<p>💼 No momento trabalho na empresa <b>Agencia Auaha</b> como desenvolvedor Front-end.<br><br>
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF0Bae5wKogoA/company-logo_200_200/0/1638385856522?e=1650499200&v=beta&t=0eurP3tgdY-EtzWNoYFc6we158HSDZkdJe0r8ssKBeI" width="100px" heigth="100px"></p>
+  <h2>- Conhecimento técnico</h2>
+  <table border="none" align="center">
+<tr>
+  <td><img src="https://i.imgur.com/CpombmN.gif" align="center"></td>
+  <td>Linguagens que posso te ajudar:
+    <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS/JQUERY</li>
+    <li>ReactJS</li>
+    <li>NodeJS</li>
+    <li>PHP</li>
+    </ul>
+</table>
+  <span><b>Tenho experiência nas plataformas:</b><br>
+  <img src="https://i.imgur.com/eDEo9iW.png" align="center" width="60px">
+  <img src="https://i.imgur.com/lnmGan5.jpg" align="center" width="60px">
+  <img src="https://i.imgur.com/D7uDBSj.png" align="center" width="60px">
+  <img src="https://i.imgur.com/kWrrCnR.png" align="center" width="60px">
+  <img src="https://i.imgur.com/ycYUbAZ.jpeg" align="center" width="60px">
+    
+  </span>
+  
+  <span><b>Estou desenvolvendo lojas para as seguintes plataformas:</b><br>
+    <img src="https://i.imgur.com/6Im1EnJ.png" align="center" width="60px">
+    <img src="https://i.imgur.com/eDEo9iW.png" align="center" width="60px">
+    <img src="https://i.imgur.com/kWrrCnR.png" align="center" width="60px">
+    <img src="https://i.imgur.com/ycYUbAZ.jpeg" align="center" width="60px">
+<p><b>No momento estou estudando:</b><br>
+ <img src="https://i.imgur.com/h6MyG8t.png" align="center" width="30px">
+ <img src="https://i.imgur.com/siyvtmB.png" align="center" width="30px">
+ <img src="https://i.imgur.com/AfO9tNh.png" align="center" width="30px">
+<p>
 
-
-
+<p><b>Tenho interesse em aprender:</b><br>
+ <img src="https://i.imgur.com/MVvFozF.png" align="center" width="30px">
+    <p>
+      
+      
+  <p>Se precisar de algo é so me chamar, principalmente se for para tomar um café e falar sobre assuntos aleatórios ☕. </p>
+ 
+  <h2>- Redes Sociais</h2>
+  <p><b>No momento estou estudando:</b><br>
+    <a href="https://api.whatsapp.com/send?phone=5514996663713&text=Oi%2C%20vi%20seu%20perfil%20no%20github%20e%20gostaria%20de%20conversar%20um%20pouco">
+      <img src="https://i.imgur.com/mLoj88q.png" align="center" width="30px">
+    </a>
+    <a href="https://www.instagram.com/brunofuryx/">
+      <img src="https://i.imgur.com/JrjiVq0.png" align="center" width="30px">
+    </a>
+    <a href="https://www.facebook.com/brunofuryXlopes">
+      <img src="https://i.imgur.com/8VBIKTc.png" align="center" width="30px">
+    </a>
+  <p>
+  <p>Até mais!</p>
 <!--
 **BrunoFuryX/BrunoFuryX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
