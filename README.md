@@ -1,12 +1,3 @@
-### Bom dia!
-
-Meu nome é , no momento estou trabalhando e focando no front-end para e-commerce
-
-🔭 Atualmente trabalho na Agência Auaha, uma empresa de Marília que é focada em marketing e implementação de projetos e-commerce.<br>
-
-💬 Tenho experiencia em: Node.js, PostgresSQL, MySQL, C#, PHP, JavaScript, CSS, HTML, Twig, Liquid<br>
-🌱 Tenho estudado atualmente: Angular, Node.js, ReactJs
-
 <h2 align="center">Bom dia, tarde ou noite! 😊</h2>
 
 <h2>- Minha trajetória:</h2>
