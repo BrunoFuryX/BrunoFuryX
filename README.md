@@ -6,8 +6,8 @@
 <p>Comecei meus estudos oficialmente em 2016, cursando o Ensino médio integrado ao Técnico de informática na ETEC, porém meu interesse na área veio desde cedo.</p>
 
 
-<p>💼 No momento trabalho na empresa <b>Agencia Auaha</b> como desenvolvedor Front-end.<br><br>
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF0Bae5wKogoA/company-logo_200_200/0/1638385856522?e=1650499200&v=beta&t=0eurP3tgdY-EtzWNoYFc6we158HSDZkdJe0r8ssKBeI" width="100px" heigth="100px"></p>
+<p>💼 No momento estou procurando emprego como desenvolvedor Front-end.<br><br>
+width="100px" heigth="100px"></p>
   <h2>- Conhecimento técnico</h2>
   <table border="none" align="center">
 <tr>
