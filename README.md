@@ -6,8 +6,7 @@
 <p>Comecei meus estudos oficialmente em 2016, cursando o Ensino médio integrado ao Técnico de informática na ETEC, porém meu interesse na área veio desde cedo.</p>
 
 
-<p>💼 No momento estou procurando emprego como desenvolvedor Front-end.<br><br>
-width="100px" heigth="100px"></p>
+<p>💼 No momento estou procurando emprego como desenvolvedor Front-end.<br</p>
   <h2>- Conhecimento técnico</h2>
   <table border="none" align="center">
 <tr>
