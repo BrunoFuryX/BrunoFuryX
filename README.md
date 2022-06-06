@@ -33,18 +33,20 @@
   
   <span><b>Estou desenvolvendo lojas para as seguintes plataformas:</b><br>
     <img src="https://i.imgur.com/6Im1EnJ.png" align="center" width="60px">
-    <img src="https://i.imgur.com/eDEo9iW.png" align="center" width="60px">
-    <img src="https://i.imgur.com/kWrrCnR.png" align="center" width="60px">
-    <img src="https://i.imgur.com/ycYUbAZ.jpeg" align="center" width="60px">
-<p><b>No momento estou estudando:</b><br>
+<p><b>Se precisar de ajuda com isso pode me chamar:</b><br>
  <img src="https://i.imgur.com/h6MyG8t.png" align="center" width="30px">
  <img src="https://i.imgur.com/siyvtmB.png" align="center" width="30px">
  <img src="https://i.imgur.com/AfO9tNh.png" align="center" width="30px">
+<p>    
+
+<p><b>No momento estou estudando:</b><br>
+ <img src="https://i.imgur.com/MVvFozF.png" align="center" width="30px">
+  <img src="https://i.imgur.com/GIXiZaV.png" align="center" width="30px">
 <p>
 
-<p><b>Tenho interesse em aprender:</b><br>
+<!-- <p><b>Tenho interesse em aprender:</b><br>
  <img src="https://i.imgur.com/MVvFozF.png" align="center" width="30px">
-    <p>
+    <p> -->
        
       
   <p>Se precisar de algo é so me chamar, principalmente se for para tomar um café e falar sobre assuntos aleatórios ☕. </p>
@@ -54,7 +56,7 @@
     <a href="https://api.whatsapp.com/send?phone=5514996663713&text=Oi%2C%20vi%20seu%20perfil%20no%20github%20e%20gostaria%20de%20conversar%20um%20pouco">
       <img src="https://i.imgur.com/mLoj88q.png" align="center" width="30px">
     </a>
-    <a href="https://www.instagram.com/brunofuryx/">
+    <a href="https://www.instagram.com/bruno.furyx/">
       <img src="https://i.imgur.com/JrjiVq0.png" align="center" width="30px">
     </a>
     <a href="https://www.facebook.com/brunofuryXlopes">
