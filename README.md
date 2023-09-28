@@ -1,7 +1,7 @@
 <h2 align="center">Bom dia, tarde ou noite! 😊</h2>
 
 <h2>- Minha trajetória:</h2>
-<p>Me chamo <b>Bruno Ferreira Lopes</b>, tenho 21 anos e é um prazer ter você aqui.</p>
+<p>Me chamo <b>Bruno Ferreira Lopes</b>, tenho 22 anos e é um prazer ter você aqui.</p>
 
 <p>Comecei meus estudos oficialmente em 2016, cursando o Ensino médio integrado ao Técnico de informática na ETEC, porém meu interesse na área veio desde cedo.</p>
 
