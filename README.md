@@ -54,7 +54,7 @@
  
   <h2>- Redes Sociais</h2>
   <p>
-    <a href="https://api.whatsapp.com/send?phone=5514996663713&text=Oi%2C%20vi%20seu%20perfil%20no%20github%20e%20gostaria%20de%20conversar%20um%20pouco">
+    <a href="https://api.whatsapp.com/send?phone=5514996680413&text=Oi%2C%20vi%20seu%20perfil%20no%20github%20e%20gostaria%20de%20conversar%20um%20pouco">
       <img src="https://i.imgur.com/mLoj88q.png" align="center" width="30px">
     </a>
     <a href="https://www.instagram.com/bruno.furyx/">
